@@ -43,4 +43,3 @@ spec:
       terminationGracePeriodSeconds: {{ .Values.terminationGracePeriodSeconds }}
       imagePullSecrets:
         - name: jenkins-docker-cfg
-
